@@ -1,0 +1,9 @@
+X:\DevBox\MakeMeAdmin\MakeMeAdmin\bin\Debug\MakeMeAdmin.exe
+X:\DevBox\MakeMeAdmin\MakeMeAdmin\bin\Debug\MakeMeAdmin.pdb
+X:\DevBox\MakeMeAdmin\MakeMeAdmin\obj\x86\Debug\ResolveAssemblyReference.cache
+X:\DevBox\MakeMeAdmin\MakeMeAdmin\obj\x86\Debug\MMA.MainForm.resources
+X:\DevBox\MakeMeAdmin\MakeMeAdmin\obj\x86\Debug\MMA.Properties.Resources.resources
+X:\DevBox\MakeMeAdmin\MakeMeAdmin\obj\x86\Debug\ResGen.read.1.tlog
+X:\DevBox\MakeMeAdmin\MakeMeAdmin\obj\x86\Debug\ResGen.write.1.tlog
+X:\DevBox\MakeMeAdmin\MakeMeAdmin\obj\x86\Debug\MakeMeAdmin.exe
+X:\DevBox\MakeMeAdmin\MakeMeAdmin\obj\x86\Debug\MakeMeAdmin.pdb

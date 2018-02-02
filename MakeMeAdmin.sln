@@ -1,0 +1,38 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Installer", "MakeMeAdmin\Installer.csproj", "{C1A72C24-5E98-47A0-8867-86CFD509184A}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Adder", "ConsoleApplication1\Adder.csproj", "{825A3C70-3FE9-4EC6-ADD4-388176F34E0F}"
+EndProject
+Global
+	GlobalSection(TeamFoundationVersionControl) = preSolution
+		SccNumberOfProjects = 3
+		SccEnterpriseProvider = {4CA58AB2-18FA-4F8D-95D4-32DDF27D184C}
+		SccTeamFoundationServer = http://cavtsase169:8080/tfs/deskside%20services
+		SccLocalPath0 = .
+		SccProjectUniqueName1 = ConsoleApplication1\\Adder.csproj
+		SccProjectName1 = ConsoleApplication1
+		SccLocalPath1 = ConsoleApplication1
+		SccProjectUniqueName2 = MakeMeAdmin\\Installer.csproj
+		SccProjectName2 = MakeMeAdmin
+		SccLocalPath2 = MakeMeAdmin
+	EndGlobalSection
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x86 = Debug|x86
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{C1A72C24-5E98-47A0-8867-86CFD509184A}.Debug|x86.ActiveCfg = Release|x86
+		{C1A72C24-5E98-47A0-8867-86CFD509184A}.Debug|x86.Build.0 = Release|x86
+		{C1A72C24-5E98-47A0-8867-86CFD509184A}.Release|x86.ActiveCfg = Release|x86
+		{C1A72C24-5E98-47A0-8867-86CFD509184A}.Release|x86.Build.0 = Release|x86
+		{825A3C70-3FE9-4EC6-ADD4-388176F34E0F}.Debug|x86.ActiveCfg = Release|x86
+		{825A3C70-3FE9-4EC6-ADD4-388176F34E0F}.Debug|x86.Build.0 = Release|x86
+		{825A3C70-3FE9-4EC6-ADD4-388176F34E0F}.Release|x86.ActiveCfg = Release|x86
+		{825A3C70-3FE9-4EC6-ADD4-388176F34E0F}.Release|x86.Build.0 = Release|x86
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

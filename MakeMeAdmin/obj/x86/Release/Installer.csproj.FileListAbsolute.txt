@@ -1,0 +1,9 @@
+X:\DevBox\MakeMeAdmin\_output\Installer.exe
+X:\DevBox\MakeMeAdmin\_output\Installer.pdb
+X:\DevBox\MakeMeAdmin\MakeMeAdmin\obj\x86\Release\mma2.MainForm.resources
+X:\DevBox\MakeMeAdmin\MakeMeAdmin\obj\x86\Release\mma2.Properties.Resources.resources
+X:\DevBox\MakeMeAdmin\MakeMeAdmin\obj\x86\Release\Installer.exe
+X:\DevBox\MakeMeAdmin\MakeMeAdmin\obj\x86\Release\Installer.pdb
+X:\DevBox\MakeMeAdmin\MakeMeAdmin\obj\x86\Release\Installer.csprojResolveAssemblyReference.cache
+X:\DevBox\MakeMeAdmin\_output\Installer.exe.config
+X:\DevBox\MakeMeAdmin\MakeMeAdmin\obj\x86\Release\Installer.csproj.GenerateResource.Cache
